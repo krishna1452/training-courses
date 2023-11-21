@@ -14,15 +14,13 @@ include 'header.php';
     <meta charset="utf-8">
     <title>Training Courses</title>
     <meta name="description" content="">
-    <!-- responsive tag -->
+    <!-- responsive tag -->ofadsbfbsakcbksbcksabckasbkasbfkbsfkb
    
 
     <!-- Main content Start -->
     <div class="main-content">
         <!-- Banner Section Start -->
-        <div id="rs-banner" class="rs-banner style3">
-            <div class="container pt-90 md-pt-50">
-                <div class="banner-content pb-13">
+        
                     <div class="row">
                         <div class="col-lg-7">
                             <h1 class="banner-title white-color wow fadeInLeft" data-wow-delay="300ms"
